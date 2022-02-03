@@ -1,13 +1,20 @@
-
+body{
+   
+    background-color: rgb(203, 173, 231);
+}
 
 .counter {
     background-color: black;
-    width: 300px;
-    height: 180px;
+    width:fit-content;
+    height:fit-content;
     text-align: center;
     border-radius: 10%;
+    padding: 2%;
+    margin: auto;
+    margin-top: 15%;
+    box-shadow: 0 0 15px 15px white;
 }
 .one {
-    font-size: 80pt;
-    color:white;
+    font-size: 120pt;
+    color:rgb(136, 56, 56);
 }
